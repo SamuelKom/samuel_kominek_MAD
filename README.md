@@ -1,4 +1,4 @@
-# samuel_kominek_MAD
+# samuel_kominek_MAD DL_02
 # !!!WARNING PLEASE READ!!!
 Pushed only main kotlin file.
 Didn't know if we need to push the whole project since in DL 01 only the kt file was needed.
