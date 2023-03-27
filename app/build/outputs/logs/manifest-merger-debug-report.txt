@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [io.coil-kt:coil-compose:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\88002ebe2304265d5ec907516d15663e\transformed\coil-compose-2.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt:coil-compose-base:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\864ce3b9f56652bf69606aee1fe1fe7f\transformed\coil-compose-base-2.2.2\AndroidManifest.xml:2:1-9:12
 MERGED from [io.coil-kt:coil:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\6cbfdbfe2bc9acda8b735723ae49fe65\transformed\coil-2.2.2\AndroidManifest.xml:2:1-9:12
@@ -60,27 +60,27 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samue\.gradle\caches\trans
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samue\.gradle\caches\transforms-3\1843ab3d282f400c857a6e39b1f8bf15\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.ui:ui-util:1.2.1] C:\Users\samue\.gradle\caches\transforms-3\df7a2f505fedb8e8f3f40acd382ec973\transformed\ui-util-1.2.1\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samue\.gradle\caches\transforms-3\b50f3d685a600eff53f91411bdc75058\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\samue\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:23:5-27:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\samue\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:23:5-27:19
 MERGED from [androidx.compose.ui:ui-tooling:1.2.0] C:\Users\samue\.gradle\caches\transforms-3\280b131bb25e5630f81e39beabaa1bea\transformed\ui-tooling-1.2.0\AndroidManifest.xml:23:5-27:19
@@ -96,49 +96,49 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samue\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\samue\.gradle\caches\transforms-3\c2f72fe2755f2af06633b21853cdfb71\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:8:9-54
 	tools:targetApi
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:13:9-29
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:13:9-29
 	android:icon
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:12:9-47
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:12:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.movie_app.MainActivity
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:14:9-24:20
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:14:9-24:20
 	android:label
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:17:13-45
 	android:exported
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:16:13-36
 	android:theme
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:18:13-51
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:18:13-51
 	android:name
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:22:27-74
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:27:5-67
+ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml:27:22-64
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml:27:22-64
 uses-sdk
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 MERGED from [io.coil-kt:coil-compose:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\88002ebe2304265d5ec907516d15663e\transformed\coil-compose-2.2.2\AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil-compose:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\88002ebe2304265d5ec907516d15663e\transformed\coil-compose-2.2.2\AndroidManifest.xml:5:5-7:41
 MERGED from [io.coil-kt:coil-compose-base:2.2.2] C:\Users\samue\.gradle\caches\transforms-3\864ce3b9f56652bf69606aee1fe1fe7f\transformed\coil-compose-base-2.2.2\AndroidManifest.xml:5:5-7:41
@@ -251,16 +251,16 @@ MERGED from [androidx.compose.ui:ui-util:1.2.1] C:\Users\samue\.gradle\caches\tr
 MERGED from [androidx.compose.ui:ui-util:1.2.1] C:\Users\samue\.gradle\caches\transforms-3\df7a2f505fedb8e8f3f40acd382ec973\transformed\ui-util-1.2.1\AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samue\.gradle\caches\transforms-3\b50f3d685a600eff53f91411bdc75058\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samue\.gradle\caches\transforms-3\b50f3d685a600eff53f91411bdc75058\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\samue\Desktop\FH\Sem4\MAD\samuel_kominek_MAD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\AndroidStudioProjects\Movie_App\app\src\main\AndroidManifest.xml
 activity#androidx.activity.ComponentActivity
 ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] C:\Users\samue\.gradle\caches\transforms-3\26f1dbfda8720dd08f31ae18a7932ecf\transformed\ui-test-manifest-1.2.0\AndroidManifest.xml:24:9-26:39
 	android:exported
