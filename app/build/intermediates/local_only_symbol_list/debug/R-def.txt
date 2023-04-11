@@ -13,7 +13,17 @@ drawable ic_launcher_foreground
 drawable loading
 mipmap ic_launcher
 mipmap ic_launcher_round
+string add
+string add_movie
 string app_name
+string enter_actors
+string enter_director
+string enter_movie_title
+string enter_movie_year
+string enter_plot
+string enter_rating
+string movie_poster
+string select_genres
 style Theme.Movie_App
 xml backup_rules
 xml data_extraction_rules

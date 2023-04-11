@@ -1,49 +1,66 @@
 package com.example.movie_app.screens
 
 import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.lazy.LazyRow
-import androidx.compose.foundation.lazy.items
 import androidx.compose.material.*
-import androidx.compose.runtime.*
+import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.testapp.models.Movie
-import com.example.testapp.models.getMovies
+import com.example.movie_app.models.Movie
+import com.example.movie_app.viewModel.MoviesViewModel
+import com.example.movie_app.widgets.HorizontalScrollableImageView
+import com.example.movie_app.widgets.MovieRow
+import com.example.movie_app.widgets.SimpleTopAppBar
 
 @Composable
-fun DetailScreen(navController: NavController,  movieId: String?) {
+fun DetailScreen(
+    navController: NavController, moviesViewModel: MoviesViewModel, movieId: String?
+) {
 
-    val list : List<Movie> = getMovies()
-    val movie = list.find { it.id == movieId } ?: return
+    movieId?.let {
+        val movie = moviesViewModel.movieList.filter { it.id == movieId }[0]
 
-    Column(
-        modifier = Modifier
-            .fillMaxSize(),
-        verticalArrangement = Arrangement.Top,
-        horizontalAlignment = Alignment.CenterHorizontally
+        // needed for show/hide snackbar
+        val scaffoldState = rememberScaffoldState() // this contains the `SnackbarHostState`
+
+        Scaffold(
+            scaffoldState = scaffoldState, // attaching `scaffoldState` to the `Scaffold`
+            topBar = {
+                SimpleTopAppBar(arrowBackClicked = { navController.popBackStack() }) {
+                    Text(text = movie.title)
+                }
+            },
+        ) { padding ->
+            MainContent(Modifier.padding(padding), movie, moviesViewModel)
+        }
+    }
+}
+
+@Composable
+fun MainContent(modifier: Modifier = Modifier, movie: Movie, moviesViewModel: MoviesViewModel) {
+    Surface(
+        modifier = modifier
+            .fillMaxWidth()
+            .fillMaxHeight()
     ) {
 
-        SimpleAppBar(title = movie.title, navController = navController)
-        MovieRow(movie = movie)
+        Column(
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Top
+        ) {
 
-        Divider(color = Color.LightGray, modifier = Modifier
-            .fillMaxWidth()
-            .height(1.dp))
-        Text(text = "Movie Images", fontSize = 30.sp)
+            MovieRow(movie = movie, onFavClick = { movieId ->
+                moviesViewModel.markFavorite(movieId)
+            })
 
-        LazyRow(horizontalArrangement = Arrangement.spacedBy(10.dp)){
-            items(movie.images) {
-                Card(modifier = Modifier
-                    .height(140.dp)
-                    .fillMaxWidth()
-                ) {
-                    BuildImage(imageURL = it)
-                }
-            }
+            Spacer(modifier = Modifier.height(8.dp))
+
+            Divider()
+
+            Text(text = "Movie Images", style = MaterialTheme.typography.h5)
+
+            HorizontalScrollableImageView(movie = movie)
         }
     }
 }

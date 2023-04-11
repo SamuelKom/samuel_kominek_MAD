@@ -3,36 +3,17 @@ package com.example.movie_app
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
-import androidx.compose.runtime.*
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.movie_app.ui.theme.Movie_AppTheme
+import com.example.movie_app.navigation.Navigation
+import com.example.movie_app.theme.MovieAppMAD23Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            Movie_AppTheme {
-                // A surface container using the 'background' color from the theme
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
-                ) {
-                    MovieNavigation()
-                }
+            MovieAppMAD23Theme {
+                Navigation()
             }
         }
-    }
-}
-
-
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    Movie_AppTheme {
-        MovieNavigation()
     }
 }
 

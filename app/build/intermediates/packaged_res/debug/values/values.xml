@@ -7,7 +7,17 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="add">Add</string>
+    <string name="add_movie">Add a Movie</string>
     <string name="app_name">Movie_App</string>
+    <string name="enter_actors">Enter actors</string>
+    <string name="enter_director">Enter director</string>
+    <string name="enter_movie_title">Enter title</string>
+    <string name="enter_movie_year">Enter year</string>
+    <string name="enter_plot">Enter plot</string>
+    <string name="enter_rating">Enter a rating</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="select_genres">Select Genres</string>
     <style name="Theme.Movie_App" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:statusBarColor">@color/purple_700</item>
     </style>
